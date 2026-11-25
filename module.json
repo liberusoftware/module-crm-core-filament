@@ -3,7 +3,7 @@
   "name": "crm-core-filament",
   "display_name": "CRM Core Filament",
   "description": "Filament 5 resources and actions for CRM Core.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "presentation",
   "provider": "Liberu\\CRM\\Core\\Filament\\CRMCoreFilamentServiceProvider",
   "requires": {
